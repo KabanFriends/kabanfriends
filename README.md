@@ -1,3 +1,13 @@
+<div align="center">
+<img src="https://raw.githubusercontent.com/KabanFriends/creation/master/images/avatar.png" alt="CraftGR" width="200" height="200">
+<h1>KabanFriends</h1>
+<i>That looks like me</i>
+<br><br>
+
+[![build](https://github.com/KabanFriends/kabanfriends/actions/workflows/build.yml/badge.svg)](https://github.com/KabanFriends/kabanfriends/actions/workflows/build.yml)
+
+</div>
+
 ### Hi there 👋
 
 **KabanFriends/kabanfriends** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
