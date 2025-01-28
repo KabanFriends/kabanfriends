@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/KabanFriends/creation/master/images/avatar.png" alt="CraftGR" width="200" height="200">
+<img src="https://raw.githubusercontent.com/KabanFriends/creation/master/images/avatar.png" alt="CraftGR" width="150" height="150">
 <h1>KabanFriends</h1>
 <i>That looks like me</i>
 <br><br>
