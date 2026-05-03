@@ -4,7 +4,6 @@
 <i>That looks like me!</i>
 <br><br>
 
-<!--
 [![単位](https://github.com/KabanFriends/kabanfriends/actions/workflows/build.yml/badge.svg)](https://github.com/KabanFriends/kabanfriends/actions/workflows/build.yml)
 
 </div>
@@ -16,4 +15,3 @@
 Here are some ideas to get you started:
 
 - 🐎 juan
--->
